@@ -1,0 +1,24 @@
+{
+  "name": "react-frame",
+  "description": "react-frame",
+  "main": "index.js",
+  "authors": [
+    "fangbao"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "react"
+  ],
+  "homepage": "https://github.com/fangbao-0418/react-frame",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}

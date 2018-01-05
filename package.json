@@ -1,7 +1,7 @@
 {
   "name": "gyr-cli",
-  "version": "1.0.0",
-  "description": "react-frame",
+  "version": "1.0.2",
+  "description": "gyr-cli",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --inline --progress --watch --colors --env 'development'",
@@ -25,9 +25,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fangbao-0418/react-frame.git"
+    "url": "https://github.com/gaoyanru/gyr-cli.git"
   },
-  "author": "fangbao",
+  "author": "gaoyanru",
   "license": "ISC",
   "browserslist": [
     "> 1%",
